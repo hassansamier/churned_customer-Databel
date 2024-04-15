@@ -1,11 +1,11 @@
-this is the describtion for churned customer databel dataset
+this is the describtion for churned customer databel dataset.
 
 
 Customer status:
-    Customer ID : The unique ID that identifies a customer
-    Churn Label : Contains “Yes” or “No” to indicate if a customer churned
-    Churn Reason: The particular reason why the customer ended the contract
-    Churn Category : Groups multiple churn reasons together for analysis purposes
+    Customer ID : The unique ID that identifies a customer.
+    Churn Label : Contains “Yes” or “No” to indicate if a customer churned.
+    Churn Reason: The particular reason why the customer ended the contract.
+    Churn Category : Groups multiple churn reasons together for analysis purposes.
 
 
     
